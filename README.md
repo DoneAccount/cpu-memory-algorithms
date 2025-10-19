@@ -39,7 +39,7 @@ It demonstrates how different scheduling and page replacement strategies affect 
 
 ---
 
-## 🧩 Notes
+## 📝 Notes
 - Ensure all `.java` files are compiled before execution.  
 - Each algorithm can be modified and tested independently.
 
