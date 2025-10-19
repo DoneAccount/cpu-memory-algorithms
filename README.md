@@ -1,12 +1,12 @@
 # ⚙️ Operating System Concepts – CPU and Memory Management Algorithms
 
 **Contributors:**  
-- Abrazado, Jin Gaila  
-- Badrina, Joshua  
-- Bautista, Mark Anthony  
-- Bermas, Estella Mae  
-- Cunanan, Renz Edric  
-- Tayag, Ralph Mykel  
+- Abrazado, Jin Gaila @JinAbr
+- Badrina, Joshua @Baddsss
+- Bautista, Mark Anthony @MrkHammy
+- Bermas, Estella Mae @wombatwombatt
+- Cunanan, Renz Edric @DoneAccount 
+- Tayag, Ralph Mykel @RalphMykelTayag
 
 **Professor:**  
 Dr. Mary Jane C. Rabena  
