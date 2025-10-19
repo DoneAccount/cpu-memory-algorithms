@@ -13,7 +13,7 @@ Dr. Mary Jane C. Rabena
 
 ---
 
-## 🧠 Project Overview
+## 🚀 Project Overview
 This project explores key **Operating System concepts** by simulating various **CPU Scheduling** and **Memory Management (Paging)** algorithms.  
 It demonstrates how different scheduling and page replacement strategies affect performance and system efficiency.
 
