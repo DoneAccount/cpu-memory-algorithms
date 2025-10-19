@@ -1,6 +1,6 @@
 # ⚙️ Operating System Concepts – CPU and Memory Management Algorithms
 
-**Made By:**  
+**Contributors:**  
 - Abrazado, Jin Gaila  
 - Badrina, Joshua  
 - Bautista, Mark Anthony  
