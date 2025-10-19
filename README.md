@@ -1,12 +1,12 @@
 # ⚙️ Operating System Concepts – CPU and Memory Management Algorithms
 
 **Contributors:**  
-- Abrazado, Jin Gaila — [@JinAbr](https://github.com/JinAbr)
-- Badrina, Joshua — [@Baddsss](https://github.com/Baddsss)
-- Bautista, Mark Anthony — [@MrkHammy](https://github.com/MrkHammy)
-- Bermas, Estella Mae — [@wombatwombatt](https://github.com/wombatwombatt)
-- Cunanan, Renz Edric — [@DoneAccount](https://github.com/DoneAccount)
-- Tayag, Ralph Mykel — [@RalphMykelTayag](https://github.com/RalphMykelTayag)
+- Abrazado, Jin Gaila B. — [@JinAbr](https://github.com/JinAbr)
+- Badrina, Joshua D. — [@Baddsss](https://github.com/Baddsss)
+- Bautista, Mark Anthony A.  — [@MrkHammy](https://github.com/MrkHammy)
+- Bermas, Estella Mae E. — [@wombatwombatt](https://github.com/wombatwombatt)
+- Cunanan, Renz Edric A. — [@DoneAccount](https://github.com/DoneAccount)
+- Tayag, Ralph Mykel P. — [@RalphMykelTayag](https://github.com/RalphMykelTayag)
 
 **Professor:**  
 Dr. Mary Jane C. Rabena  
